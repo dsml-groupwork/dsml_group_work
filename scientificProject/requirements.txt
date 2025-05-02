@@ -1,0 +1,10 @@
+# Core data handling libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization libraries
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Scikit-learn for preprocessing and machine learning utilities
+scikit-learn==1.4.2
